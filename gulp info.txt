@@ -1,0 +1,13 @@
+﻿
+
+comand:
+
+" npm run dev": 		 режим разработчика
+" npm run build":	 режим продакшена
+" npm run zip": 		 архив в режиме продакшена
+" npm run deploy": 	 отправка на cервер в режиме продакшена
+" npm run svgSprive":	  svg спрайт
+
+новый проект
+(скопировать в проект папку: gulp, src, и файл: gulpfile.js, package.json) (newProject)
+npm i           установка всех пакетов для нового проекта
