@@ -112,3 +112,17 @@ h3 {
   font-size: 90px;
   color: yellow;
 }
+
+h4 {
+  font-size: 45px;
+  color: green;
+}
+
+.content-2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: red;
+  max-width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
